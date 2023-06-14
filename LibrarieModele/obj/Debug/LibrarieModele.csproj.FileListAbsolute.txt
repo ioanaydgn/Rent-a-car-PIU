@@ -1,0 +1,6 @@
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\bin\Debug\LibrarieModele.dll
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\bin\Debug\LibrarieModele.pdb
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\obj\Debug\LibrarieModele.dll
+\\Mac\Home\Downloads\InchirieriAuto-master\LibrarieModele\obj\Debug\LibrarieModele.pdb

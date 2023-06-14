@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\bin\Debug\LibrarieModele.dll
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+\\Mac\Home\Downloads\InchirieriAuto-master\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
